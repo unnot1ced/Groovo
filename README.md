@@ -1,4 +1,4 @@
-# Groovo :D
+# Groovo - (Formerly known as MoodMusic)
 
 A **native music player** built with [Expo](https://expo.dev), [React Native](https://reactnative.dev), [TypeScript](https://www.typescriptlang.org/), and [Zustand](https://zustand-demo.pmnd.rs/).  
 **Design inspired by Apple Music.** Smooth, minimal, and responsive.
@@ -65,7 +65,7 @@ Platform: iOS (native)
 
 ## Authors
 
-- [@unnot1ced](https://www.github.com/unnot1ced)
+- [@unnot1ced](https://www.github.com/unnot1ced) :)
 
 
 
